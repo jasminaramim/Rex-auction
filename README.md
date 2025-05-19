@@ -1,5 +1,16 @@
 # Rex Auction
 
+<div align ="center">
+  <img src="/src/assets/image/frstimg.png" alt="Auction Home Page" width="600"/>
+  <br/>
+  <img src="/src/assets/image/2ndpic.png" alt="Bidding Interface" width="600"/>
+  <br/>
+
+</div>
+
+## 🌐 Live Site
+
+🔗 **Visit here** 👉 [https://rex-auction.web.app/](https://rex-auction.web.app/)
 Rex Auction is a modern auction platform built with **React**, **Next.js**, and **Firebase**, designed for a seamless and interactive bidding experience. This project leverages **Vite** for fast development, **Tailwind CSS** for styling, and **Framer Motion** for smooth animations.
 
 ## 🚀 Features
